@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main{
+class Sorting_squared{
 	
 	private static void MergeSort(int[] arr, int left, int right){
 		if(left>=right) return;
